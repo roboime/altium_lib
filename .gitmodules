@@ -1,3 +1,0 @@
-[submodule "altium_lib"]
-	path = altium_lib
-	url = git@github.com:roboime/altium_lib.git
